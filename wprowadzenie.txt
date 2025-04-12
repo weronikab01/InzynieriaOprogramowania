@@ -1,11 +1,11 @@
-Wprowadzenie do zajec. 22 marca
+Wprowadzenie do zajęć. 22 marca.
 
-Zmiana w pliku
+Zmiana w pliku.
 
-Wprowadzenie dodatkowej zmiany w istniejącym pliku
+Wprowadzenie dodatkowej zmiany w istniejącym pliku.
 
-Kolejna zmiana w innym branchu
+Kolejna zmiana w innym branchu.
 
-Dzisiaj jest 16 stopni Celsjusza
+Dzisiaj jest 16 stopni Celsjusza.
 
-We wtorek ma padać deszcz
+We wtorek ma padać deszcz.
