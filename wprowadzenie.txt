@@ -3,3 +3,5 @@ Wprowadzenie do zajec. 22 marca
 Zmiana w pliku
 
 Wprowadzenie dodatkowej zmiany w istniejącym pliku
+
+Kolejna zmiana w innym branchu
