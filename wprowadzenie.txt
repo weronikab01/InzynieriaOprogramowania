@@ -9,3 +9,5 @@ Kolejna zmiana w innym branchu.
 Dzisiaj jest 16 stopni Celsjusza.
 
 We wtorek ma padać deszcz.
+
+Kolejny komentarz.
