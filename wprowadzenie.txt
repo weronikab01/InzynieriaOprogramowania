@@ -1,13 +1,13 @@
-Wprowadzenie do zajęć. 22 marca.
+1. Wprowadzenie do zajęć. 22 marca.
 
-Zmiana w pliku.
+2. Zmiana w pliku.
 
-Wprowadzenie dodatkowej zmiany w istniejącym pliku.
+3. Wprowadzenie dodatkowej zmiany w istniejącym pliku.
 
-Kolejna zmiana w innym branchu.
+4. Kolejna zmiana w innym branchu.
 
-Dzisiaj jest 16 stopni Celsjusza.
+5. Dzisiaj jest 16 stopni Celsjusza.
 
-We wtorek ma padać deszcz.
+6. We wtorek ma padać deszcz.
 
-Kolejny komentarz.
+7. Kolejny komentarz.
